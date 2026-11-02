@@ -1,7 +1,7 @@
 # JSRS-2025-Community-Compats
 This repository contains all compatibility patches I've made for JSRS Soundmod 2025. *THIS IS NOT AN OFFICIAL REPOSITORY OF THE MOD ITSELF NOR IS IT THE OFFICIAL AIO COMPAT PACK INCLUDED IN THE MOD, THIS IS ONLY A COMMUNITY COMPAT REPOSITORY* 
 
-[Workshop Collection](https://steamcommunity.com/id/dyson2022).
+[Workshop Collection](https://steamcommunity.com/id/dyson2022)
 
 [![DISCORD](https://core.thespeshalplatoon.com/img/discowd.gif)](https://discord.gg/8h44QVqyxX)
 [![KOFI](https://core.thespeshalplatoon.com/img/kofi.gif)](https://ko-fi.com/gooseygreen)
