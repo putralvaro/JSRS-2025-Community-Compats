@@ -1,4 +1,4 @@
-# 🎧🔌JSRS-2025-Community-Compats
+# 🔌JSRS-2025-Community-Compats
 This repository contains all compatibility patches I've made for JSRS Soundmod 2025. *THIS IS NOT AN OFFICIAL REPOSITORY OF THE MOD ITSELF NOR IS IT THE OFFICIAL AIO COMPAT PACK INCLUDED IN THE MOD, THIS IS ONLY A COMMUNITY COMPAT REPOSITORY* 
 
 [Workshop Collection](https://steamcommunity.com/workshop/filedetails/?id=3681702752)
