@@ -40,8 +40,8 @@ Load into ArmA with @cba, @ace, @thisMod and Zeus Enhanced, open the 3DEN editor
 
 ## 📖 License
 This license applies to all compat addons unless stated otherwise.  
-✔️ Modify this mod.  
-✔️ Redistribute this mod in part or whole privately / within a unit.  
-✔️ Redistribute this mod in part or whole publicly with credits linking to this page.  
-❌ Port this mod in part or whole to games other than ArmA.  
-❌ Use this mod for commercial purposes.
+✔️ Modify the addons.  
+✔️ Redistribute the addons in part or whole privately / within a unit.  
+✔️ Redistribute the addons in part or whole publicly with credits linking to this page.  
+❌ Port the addons in part or whole to games other than ArmA.  
+❌ Use the addons for commercial purposes.
