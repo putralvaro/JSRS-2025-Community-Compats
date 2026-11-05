@@ -33,6 +33,11 @@ Load into ArmA with @cba, @ace, @thisMod and Zeus Enhanced, open the 3DEN editor
 ```
 (This is an example)
 
+## 🤝 Credits 
+➤ GreenGoose - Main Contributor
+
+➤ George Ravioli - Contributor
+
 ## 📖 License
 This license applies to all compat addons unless stated otherwise.  
 ✔️ Modify this mod.  
