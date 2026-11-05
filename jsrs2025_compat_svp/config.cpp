@@ -1,12 +1,3 @@
-////////////////////////////////////////////////////////////////////
-//DeRap: config.bin
-//Produced from mikero's Dos Tools Dll version 10.21
-//https://mikero.bytex.digital/Downloads
-//'now' is Tue Nov 03 02:02:08 2026 : 'file' last modified on Mon Mar 09 12:26:34 2026
-////////////////////////////////////////////////////////////////////
-
-#define _ARMA_
-
 class cfgpatches
 {
 	class jsrs2025_compat_svp
