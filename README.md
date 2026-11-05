@@ -34,9 +34,9 @@ Load into ArmA with @cba, @ace, @thisMod and Zeus Enhanced, open the 3DEN editor
 (This is an example)
 
 ## 🤝 Credits 
-➤ GreenGoose - Main Contributor
+➤ [GreenGoose](https://steamcommunity.com/id/RainyGoose/) - Main Contributor
 
-➤ George Ravioli - Contributor
+➤ [George Ravioli](https://steamcommunity.com/id/georg_ravioli/) - Contributor
 
 ## 📖 License
 This license applies to all compat addons unless stated otherwise.  
